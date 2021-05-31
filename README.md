@@ -2,7 +2,7 @@
 Learned to use JavaScript's Leaflet library along with the Mapbox API to create visualization of earthquake data from the U.S Geological Survey.
 
 ## Following were Learned and applied
-Create a branch from the main branch on GitHub.
+###Create a branch from the main branch on GitHub.
 Add, commit, and push data to a GitHub branch.
 Merge a branch with the main branch on GitHub.
 Retrieve data from a GeoJSON file.
