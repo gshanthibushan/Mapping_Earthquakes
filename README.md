@@ -14,12 +14,16 @@ Learned to use JavaScript's Leaflet library along with the Mapbox API to create 
 
 ## Results:
 Tectonic Plate Data
-![image](https://user-images.githubusercontent.com/79486450/120152553-9bb04e00-c1bb-11eb-94ba-d510ab7dfa90.png)
+  - All Earthquakes with Tectonic Plates in Dark View
+![image](https://user-images.githubusercontent.com/79486450/126619629-913d0b38-1f30-4858-89f4-5434060cfcdd.png)
 
 Major Earthquake Data
-![image](https://user-images.githubusercontent.com/79486450/120152790-ecc04200-c1bb-11eb-9c86-93b34cb5730f.png)
+ - Major Earthquakes with Tectonic Plates in Satellite View
+![image](https://user-images.githubusercontent.com/79486450/126620861-c1569fc0-f8ed-4dad-97dc-da525a4fc70d.png)
 
 Additional Map 
-![image](https://user-images.githubusercontent.com/79486450/120152953-209b6780-c1bc-11eb-923a-9c9344f31ac8.png)
+- All Earthquakes with Tectonic Plates in Street View
+![image](https://user-images.githubusercontent.com/79486450/126620239-af0999bf-ec5d-4593-9c46-c02b48c878bd.png)
 
-![image](https://user-images.githubusercontent.com/79486450/120153056-4294ea00-c1bc-11eb-885a-18d37d6cc711.png)
+ - Major Earthquakes with Tectonic Plates in Light View
+![image](https://user-images.githubusercontent.com/79486450/126620961-8ca3d26a-aa2e-4cfa-acff-f3f039557fe1.png)
